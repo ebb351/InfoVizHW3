@@ -1,0 +1,25 @@
+# Ignore the virtual environment folder
+.venv/
+venv/
+
+# Ignore PyCharm project files and settings
+.idea/
+
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints and notebook files
+.ipynb_checkpoints/
+
+# Ignore data folders if they are not essential for the project
+data/
+
+# Ignore log files (if any)
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+
