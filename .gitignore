@@ -11,6 +11,7 @@ __pycache__/
 
 # Ignore Jupyter notebook checkpoints and notebook files
 .ipynb_checkpoints/
+*.ipynb
 
 # Ignore data folders if they are not essential for the project
 data/
