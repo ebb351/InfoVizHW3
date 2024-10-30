@@ -22,7 +22,7 @@ project_folder/
 ## Setup Instructions
 1. Clone the repository to your local machine.
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ebb351/InfoVizHW3/tree/main>
 cd project_folder
 ```
 2. Set up a virtual environment.
