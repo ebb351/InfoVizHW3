@@ -20,7 +20,7 @@ project_folder/
 ```
 
 ## Setup Instructions
-#### Step 1 not applicable if you already have the files
+#### *NOTE*: Step 1 not applicable if you already have the files
 1. Clone the repository to your local machine.
 ```bash
 git clone <https://github.com/ebb351/InfoVizHW3/tree/main>
