@@ -20,6 +20,7 @@ project_folder/
 ```
 
 ## Setup Instructions
+#### Step 1 not applicable if you already have the files
 1. Clone the repository to your local machine.
 ```bash
 git clone <https://github.com/ebb351/InfoVizHW3/tree/main>
@@ -44,7 +45,7 @@ python app.py
 2. Open a web browser and navigate to `http://127.0.0.1:8050/` to view the app.
 
 ## Notes
-- Make sure the `nba_team_stats_00_to_23.csv` file and `NBAlogos` folder are in their respective locations as shown above.
+- Make sure the `nba_team_stats_00_to_23.csv` file, `assets` folder with `NBAlogos`, and `styles.css` are in their respective locations as shown above.
 - If you add any new dependencies, update the `requirements.txt` file using the following command:
 ```bash
 pip freeze > requirements.txt
